@@ -72,5 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Ignore Artifacts folder
-[Aa]rtifacts/
-Artifacts/
+# [Aa]rtifacts/
+# Artifacts/
